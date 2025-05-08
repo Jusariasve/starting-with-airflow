@@ -13,6 +13,7 @@ dags/
 ├── 6_callbacks.py # Uso de callbacks para manejar éxito y error de tareas  
 ├── 7_callback_fallido.py # Ejemplo de tarea fallida y cómo se dispara el callback  
 └── params.py # Archivo auxiliar para definir parámetros reutilizables
+
 Cada DAG está diseñado para enfocarse en un concepto específico de Airflow. Puedes ejecutarlos individualmente en tu entorno local de Airflow.
 
 ---
